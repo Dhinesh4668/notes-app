@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/MPLUSCodeLatin-Bold.ttf",
+      "sha1": "f76abb2681299a1c955797087386b210fe961684"
+    },
+    {
+      "path": "assets/fonts/MPLUSCodeLatin-Medium.ttf",
+      "sha1": "d3f71ab5540b0d844135d4bb16dbeb29bc096b5d"
+    },
+    {
+      "path": "assets/fonts/MPLUSCodeLatin-Regular.ttf",
+      "sha1": "6669b0525a8a3bde93092f804bb86dc4506a47a4"
+    },
+    {
+      "path": "assets/fonts/MPLUSCodeLatin-SemiBold.ttf",
+      "sha1": "43b15186e9baed07b6fb2f14bfda4e8c6e06e681"
+    },
+    {
+      "path": "assets/fonts/MPLUSCodeLatin-Thin.ttf",
+      "sha1": "1ac3f0e0c647dd2fc830af4c2915734a6173c365"
+    }
+  ]
+}
